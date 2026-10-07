@@ -2,7 +2,7 @@
 
 ...
 
-🎓 I'm a third-year computer science student at Wilfrid Laurier University, I enjoy applying my skills and knowledge to create web applications that solve real-world problems. 
+🎓 I'm a fourth-year computer science student at Wilfrid Laurier University, I enjoy applying my skills and knowledge to create web applications that solve real-world problems. 
 
 🌟 I have advanced level proficiency in Javascript, Python, Java, C++, and more and I am always eager to learn new technologies and frameworks.
 
